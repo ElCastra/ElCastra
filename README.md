@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElCastra
+- 👋 Hi, I’m Dewi Kwan Im
 - 👀 I’m interested in Software Developer and Web Developer
 - 🌱 I’m currently learning PHP and Python
 
