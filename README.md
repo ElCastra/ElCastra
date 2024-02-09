@@ -9,6 +9,5 @@ ElCastra/ElCastra is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ElCastra&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ouuann&show_icons=true)
 
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
